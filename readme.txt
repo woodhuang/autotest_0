@@ -1,4 +1,2 @@
-11111111 test
-22222222
-
+test push and pull file between original and remote.
 
