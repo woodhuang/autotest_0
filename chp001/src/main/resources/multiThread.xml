@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="multhread">
+    <test name="threadT">
+        <classes>
+
+            <class name="com.porsche.omg.multiThread.MultiThreadOnXml" />
+
+        </classes>
+
+    </test>
+
+
+</suite>

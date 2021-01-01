@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="test">
+
+    <test name="login">
+        <classes>
+            <class name="com.porsche.omg.suite.SuiteConfig"/>
+            <class name="com.porsche.omg.suite.LoginTest"/>
+        </classes>
+    </test>
+    <test name="payment">
+        <classes>
+            <class name="com.porsche.omg.suite.SuiteConfig"/>
+            <class name="com.porsche.omg.suite.PaymentTest"/>
+        </classes>
+    </test>
+    <test name="ignoreT">
+        <classes>
+            <class name="com.porsche.omg.suite.SuiteConfig"/>
+            <class name="com.porsche.omg.IgnoreTest"/>
+        </classes>
+    </test>
+    <test name="groupT">
+        <classes>
+            <class name="com.porsche.omg.suite.SuiteConfig"/>
+            <class name="com.porsche.omg.groups.groupTest"/>
+        </classes>
+    </test>
+</suite>
